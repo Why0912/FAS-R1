@@ -4,8 +4,6 @@
 
 ### Difficulty-Adaptive Reinforcement Learning for Multi-Task Face Anti-Spoofing
 
-Hongyang Wang · Yichen Shi · Hongrui Li · Yiru Huo · Jun Feng · Zitong Yu
-
 </div>
 
 FAS-R1 is a difficulty-adaptive reinforcement learning framework for **multi-task face anti-spoofing**. A shared multimodal large language model supports **authenticity classification**, **attack-type recognition**, and **attack-region localization**, returning an image-related rationale followed by the task-specific prediction.
